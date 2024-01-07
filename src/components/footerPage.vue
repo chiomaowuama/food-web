@@ -11,7 +11,7 @@
                     <li>Lekki phase 1</li>
                     <li>Victoria islands</li>
                     <li>Yaba</li>
-                    <li>YAgege</li>
+                    <li>Agege</li>
                 </ul>
                 <ul>
                     <li class="headli-footer">Contact</li>
@@ -24,9 +24,7 @@
                     <li>careers</li>
                     <li>privacy policy</li>
                     <li>Tems of use </li>
-                    <li>Victoria islands</li>
-                    <li>Yaba</li>
-                    <li>YAgege</li>
+                    
                 </ul>
                 <ul>
                     <li class="headli-footer">Follow Us</li>
@@ -62,6 +60,7 @@
     font-size: 12px;
     line-height: 19px;
     letter-spacing: 0.01em;
+    text-transform: capitalize;
 }
 .footerdiv ul{
     /* border:2px solid green; */

@@ -7,8 +7,8 @@
             <div class="the-listdiv-3">
                 <ul>
                     <li><RouterLink to="/signup">Signup</RouterLink></li>
-                    <li><RouterLink to="/loginpage">login</RouterLink></li>
-                    <li><RouterLink to="/Homepagepage">Home</RouterLink></li>
+                    <li><RouterLink to="/loginpage">Login</RouterLink></li>
+                    <li><RouterLink to="/">Home</RouterLink></li>
                 
              
                 <li>Order now</li>
@@ -37,7 +37,7 @@
 
                 <button class="sign-up">Login</button>
                 <div class="under-btns-login">
-                    <p class="under-login-btn"> Forgot passwoord ?</p>
+                    <p class="under-login-btn"> Forgot password?</p>
                     <p class="lastunder-login-btn"> For further support you may visit the health center or contact out customer service team</p>
                 </div>
             </form>

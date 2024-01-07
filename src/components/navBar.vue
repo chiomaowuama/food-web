@@ -11,8 +11,8 @@
       <div class="the-listdiv">
         <ul>
           <li><RouterLink to="/signup">Signup</RouterLink></li>
-          <li><RouterLink to="/loginpage">login</RouterLink></li>
-          <li><RouterLink to="/Homepagepage">Home</RouterLink></li>
+          <li><RouterLink to="/loginpage">Login</RouterLink></li>
+          <li><RouterLink to="/">Home</RouterLink></li>
           <li>Order now</li>
           <li>Help</li>
         </ul>
@@ -36,6 +36,9 @@
 </template>
 
 <style>
+.the-nav-part{
+  /* border:2px solid red; */
+}
 /* just some extra */
 .the-listdiv li a{
     /* border:2px solid green; */
@@ -57,6 +60,7 @@ body{
 .the-title{
   /* border:2px solid green; */
   text-align:center;
+  
 }
 .the-title h3{
   font-family: 'Open Sans';

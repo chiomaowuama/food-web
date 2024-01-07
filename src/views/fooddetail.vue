@@ -398,6 +398,7 @@ import footerPage from '@/components/footerPage.vue'
   justify-content:space-between;
   align-items:center;
   width:65%;
+  text-transform:capitalize;
   /* border:2px solid yellow */
 }
 .themini-menu li{
@@ -416,6 +417,7 @@ import footerPage from '@/components/footerPage.vue'
 }
 .little-specials{
   /* border:2px solid red; */
+  text-transform:capitalize;
   width:91%;
   margin:auto;
   margin-top:3%; 
@@ -454,6 +456,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display:flex;
   justify-content:space-between;
   align-content:center;
+  text-transform:capitalize;
   width:70%;
   /* padding:0px; */
 }

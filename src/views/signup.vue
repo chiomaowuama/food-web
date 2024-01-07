@@ -8,7 +8,7 @@
                 <ul>
                     <li><RouterLink to="/signup">Signup</RouterLink></li>
                     <li><RouterLink to="/loginpage">login</RouterLink></li>
-                    <li><RouterLink to="/Homepagepage">Home</RouterLink></li>
+                    <li><RouterLink to="/">Home</RouterLink></li>
                 <li>Order now</li>
                 <li>Help</li>
                 </ul>

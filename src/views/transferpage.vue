@@ -26,9 +26,9 @@ import navBar from "@/components/navBar.vue"
             <P class="the-amount-transfer">15,000</P>
         </div>
         <div class="the-dark-msg">
-            <p>1.Click on the orange area to copy your unique naration.</p>
-            <p>2. make sure yo use this naration above for the transfer.</p>
-            <p>3. money must be transfered from your own account,else money will be returned by the marchant.</p>
+            <p>1. Click on the orange area to copy your unique naration.</p>
+            <p>2. Make sure yo use this naration above for the transfer.</p>
+            <p>3. Money must be transfered from your own account,else money will be returned &nbsp;&nbsp;&nbsp; by the marchant.</p>
         </div>
         <div class="theaccess-andcopy">
             <div class="access">

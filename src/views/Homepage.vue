@@ -21,14 +21,14 @@ import footerPage from '@/components/footerPage.vue'
       </div>
       <div class="side-by-side">
         <div class="side-text">
-          <p>Find restaurants you love , and well bring your food to your doorstep.</p>
+          <p>Find restaurants you love, and well bring your food to your doorstep.</p>
         </div>
         <div class="side-image">
           <img src="@/assets/chiecken-deeped.png" alt="">
         </div>
       </div>
       <div class="chosing-service">
-        <p class="first-text">choose a service</p>
+        <p class="first-text">Choose a service</p>
         <div class="imagesandtext">
           <div class="foodand-p">
             <img src="@/assets/102.png" alt="" >
@@ -622,6 +622,7 @@ color: #FFFFFF;
 }
 .popular{
   font-family: 'Inter';
+  /* border:2px solid red; */
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -655,6 +656,9 @@ color: #FFFFFF;
   color:white;
   margin-top:auto;
   margin-bottom: 0px;
+  font-size:10px;
+  font-style:"inter";
+  /* border:2px solid yellow; */
   
  
 }

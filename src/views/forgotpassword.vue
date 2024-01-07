@@ -7,7 +7,7 @@
             <div class="the-listdiv-3">
                 <ul>
                     <li><RouterLink to="/signup">Signup</RouterLink></li>
-                    <li><RouterLink to="/loginpage">login</RouterLink></li>
+                    <li><RouterLink to="/loginpage">Login</RouterLink></li>
                     <li><RouterLink to="/Homepagepage">Home</RouterLink></li>
                 
              
@@ -16,7 +16,7 @@
                 </ul>
             </div>
             <h3 class="thetopic">Recover your password</h3>
-            <p class="little-comment-2">you can request password reset below .please ensure you provide a correct email adress</p>
+            <p class="little-comment-2">You can request password reset below. please ensure you provide a correct email adress</p>
             <form action="" class="signup-form">
               
                 <div class="signup-labeland-input-2">
@@ -49,7 +49,8 @@
 }
 .forgot-picture{
     /* border:2px solid green; */
-    background-image: url("@/assets/forgotbg.png");
+    /* dnt forget to rectify this  */
+    /* background-image: url("@/assets/forgotbg.png"); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -279,7 +280,8 @@ color: #000000;
 }
 .forgot-picture{
     /* border:2px solid green; */
-    background-image: url("@/assets/forgotbg.png");
+    /* dnt forget to reacet to this  */
+    /* background-image: url("@/assets/forgotbg.png"); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
