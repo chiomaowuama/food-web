@@ -283,7 +283,7 @@ color: #000000;
 }
 .login-picture{
     /* border:2px solid green; */
-    background-image: url("@/assets/forgotpbg.png");
+    /* background-image: url("@/assets/forgotpbg.png"); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
