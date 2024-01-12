@@ -99,8 +99,8 @@ function toggleNav(){
 /* body{
   overflow: hidden;
 } */
-/* .smallscreennav{
-  border:2px solid green;
+.smallscreennav{
+  /* border:2px solid green; */
   position:absolute;
   top:300px;
   right:0;
@@ -115,7 +115,7 @@ function toggleNav(){
   display: flex;
   align-items: center;
   justify-content: center;
-  transform:rotate(-45deg)
+  /* transform:rotate(-45deg) */
 }
 .toggle-button{
   cursor:pointer;
@@ -136,7 +136,7 @@ function toggleNav(){
   color:#0e2431;
   z-index:100;
   cursor:pointer;
-  transform:rotate(-225deg);
+  transform:rotate(-5deg);
   transition: all 0.6s ease;
 }
 .smallscreennav.open .toggle-button{
@@ -148,23 +148,23 @@ function toggleNav(){
   opacity: 0;
 }
 .smallscreennav.open .nav-content span{
-  transform:rotate(calc(var(--i) * (360deg/8))) translateY(120px);
+  transform:rotate(calc(var(--i) * (360deg/10))) translateY(120px);
   opacity: 1;
 }
 .nav-content span a{
   text-decoration: none;
-  transform:rotate(45deg)
+  /* transform:rotate(45deg) */
 }
 .nav-content span a i{
   font-size: 24px;
   color:#0e2431;
-  transform:rotate(calc(var(--i) * (360deg/ -8)));
+  transform:rotate(calc(var(--i) * (360deg/ -10)));
   opacity: 0.8;
   transition: 0.2s;
 }
 .nav-content span a:hover i{
   opacity: 1;
-} */
+}
 
 /* the new nav */
 .the-nav-part{
@@ -193,14 +193,14 @@ body{
   margin:0px 0px;
 }
 .the-nav-part{
-  border:2px solid red;
+  /* border:2px solid red; */
   width:90%;
   margin:auto;
   display:grid;
   grid-template-columns: 5fr 7fr;
 }
 .the-title{
-  border:2px solid green;
+  /* border:2px solid green; */
   text-align:center;
   
 }
@@ -222,7 +222,7 @@ body{
 
 }
 .the-listdiv ul{
-  border:2px solid red;
+  /* border:2px solid red; */
   display:flex;
   width:90%;
   padding:5px 0px;
